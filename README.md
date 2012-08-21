@@ -1,4 +1,4 @@
 SPOJ
 ====
 
-SPOJ solutions
+SPOJ Problem solutions 
